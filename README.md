@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# House of Developers Blockchain Hackathon
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Problem Statement solved tried to solve here is - Securing physical assets using blockchain. 
+In the real estate market there are many third parties involved for the deals or exchange of physical estate to take place. This often creates problem of trust so with the blockchain this problem can be solved and these 3rd parties can be removed from the system and make world better.
