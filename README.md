@@ -1,3 +1,13 @@
-# House-Of-Developers-Hackathon-Blockchain
-This repository have code of the deployment script for the solidity code implementing problem statement - Securing Physical assets using blockchain. 
-Physical assets for the long time aren't secured and almost every time we exchange a physical asset there's this 3rd party which creates discrepancy. Blockchain actually focusses on removing this 3rd party from the whole system of buying and selling physical assets. That's what is implemented here. 
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
